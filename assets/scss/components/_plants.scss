@@ -1,0 +1,36 @@
+.plants {
+  display: block;
+  position: absolute;
+  margin: 20% 0 0 40%;
+  z-index: 10;
+
+  .leaf-1 {
+    display: block;
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background: $green;
+    border-radius: 0 80%;
+    transform: rotate(-3deg);
+  }
+  .leaf-2 {
+    display: block;
+    position: absolute;
+    margin: -20px 0 0 9px;
+    width: 19px;
+    height: 19px;
+    background: $green;
+    border-radius: 0 0 100% 0;
+    transform: rotate(-134deg);
+  }
+  .leaf-3 {
+    display: block;
+    position: absolute;
+    margin-left: 20px;
+    width: 16px;
+    height: 16px;
+    background: $green;
+    border-radius: 0 80%;
+    transform: rotate(90deg);
+  }
+}

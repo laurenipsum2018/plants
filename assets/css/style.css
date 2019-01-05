@@ -1,0 +1,41 @@
+body {
+  background-color: #f0d5c1;
+}
+
+.plants {
+  display: block;
+  position: absolute;
+  margin: 20% 0 0 40%;
+  z-index: 10;
+}
+.plants .leaf-1 {
+  display: block;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background: #b1bc22;
+  border-radius: 0 80%;
+  transform: rotate(-3deg);
+}
+.plants .leaf-2 {
+  display: block;
+  position: absolute;
+  margin: -20px 0 0 9px;
+  width: 19px;
+  height: 19px;
+  background: #b1bc22;
+  border-radius: 0 0 100% 0;
+  transform: rotate(-134deg);
+}
+.plants .leaf-3 {
+  display: block;
+  position: absolute;
+  margin-left: 20px;
+  width: 16px;
+  height: 16px;
+  background: #b1bc22;
+  border-radius: 0 80%;
+  transform: rotate(90deg);
+}
+
+/*# sourceMappingURL=style.css.map */

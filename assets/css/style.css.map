@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../scss/main.scss","../scss/components/_plants.scss","../scss/base/_variables.scss"],"names":[],"mappings":"AAAA;EACE;;;ACDF;EACE;EACA;EACA;EACA;;AAEA;EACE;EACA;EACA;EACA;EACA,YCVI;EDWJ;EACA;;AAEF;EACE;EACA;EACA;EACA;EACA;EACA,YCpBI;EDqBJ;EACA;;AAEF;EACE;EACA;EACA;EACA;EACA;EACA,YC9BI;ED+BJ;EACA","file":"style.css"}
