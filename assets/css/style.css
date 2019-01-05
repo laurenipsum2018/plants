@@ -27,7 +27,7 @@ body {
   background: #B1BC22;
   border-radius: 0 0 100% 0;
   transform: rotate(-134deg);
-  margin: -40px 0 0 20%;
+  margin: -40px 0 0 7.4px;
 }
 .plants .plant-1 .leaf-3 {
   z-index: 3;
@@ -63,6 +63,14 @@ body {
   background: #f4f8be;
   transform: rotate(45deg);
   margin: -24px 0 0 30%;
+}
+.plants .plant-2 .stem-2 {
+  z-index: 1;
+  width: 4px;
+  height: 100px;
+  background: #B1BC22;
+  border-radius: 2px;
+  margin: 0 0 0 44%;
 }
 
 /*# sourceMappingURL=style.css.map */
